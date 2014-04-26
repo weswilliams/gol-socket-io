@@ -8,3 +8,6 @@ To run:
 > npm start
 
 In a browser goto localhost:8000
+
+
+See the CI build results at: https://travis-ci.org/weswilliams/gol-socket-io
